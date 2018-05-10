@@ -1,0 +1,32 @@
+/* headers */
+
+h1 {
+  font-size: 24x;
+  font-style: bold;
+  font-family: 'Open Sans', sans-serif;
+  color: #C924FA;
+}
+
+h2 {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* body copy & images */
+
+p {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.profile {
+  width: 200px;
+  height: 200px;
+}
+
+/* lists */
+
+ul {
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+}
